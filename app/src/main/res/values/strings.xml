@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Heurigenkalender</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_main">Heurigenkalender</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="section_format">Hello World from ListSection</string>
+    <string name="section_title_map">Karte</string>
+    <string name="section_title_list">Liste</string>
 </resources>
